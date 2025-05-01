@@ -1,0 +1,11 @@
+.banner-bg {
+  background: linear-gradient(to right, #d7e2fa, #f8f9f9);
+  margin: 0;
+}
+.primary-color {
+  font-family: "Manrope", sans-serif;
+}
+
+.plus-secondary-color {
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
